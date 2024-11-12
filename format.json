@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "yuda",
+        "location": "jakarta"
+    },
+    {
+        "id": 2,
+        "name": "nico",
+        "location": "malang"
+    },
+    {
+        "id": 3,
+        "name": "ryan",
+        "location": "pekanbaru"
+    }
+]
