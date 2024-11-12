@@ -16,7 +16,7 @@ password = "123"
 def getHome():
     #apa yang akan dilakukan oleh server
     return{
-        "message" : "selamat datang"
+        "message" : "selamat sore"
     }
 
 @app.get('/data')
